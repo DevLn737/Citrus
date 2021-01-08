@@ -1582,7 +1582,7 @@
         width: 372px;
         min-width: 372px;
         margin: 0 1% 0 0px;
-        background: rgba(var(--menu-back), 0.3);
+        
     }
 
     .p-profiles .profile-head .c-history .entry:last-child {
