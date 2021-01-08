@@ -1533,7 +1533,7 @@
         right: 0px;
         margin: 0px;
         height: 62px;
-        background: rgba(var(--menu-back), 0.3);
+/*         background: rgba(var(--menu-back), 0.3); */
         padding: 4px 6px;
         border-radius: 14px;
         box-sizing: content-box;
@@ -1583,6 +1583,7 @@
         width: 372px;
         min-width: 372px;
         margin: 0 1% 0 0px;
+        background: rgba(var(--menu-back), 0.3);
     }
 
     .p-profiles .profile-head .c-history .entry:last-child {
