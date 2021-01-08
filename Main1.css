@@ -1812,11 +1812,12 @@
 
     .p-profiles .profile-head .c-history .entry {
         border-radius: 10px;
-    }
-
-    .p-profiles .profile-head .c-history {
         background: rgba(var(--menu-back), 0.3);
     }
+
+/*     .p-profiles .profile-head .c-history {
+        background: rgba(var(--menu-back), 0.3);
+    } */
 }
 
 @media screen and (min-width: 1200px) and (max-width: 1290px) {
