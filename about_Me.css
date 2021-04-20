@@ -25,6 +25,18 @@ span.meBlock-img:hover {
     color: rgb(185 208 222);
     /* Цвет  названия спойлер-кнопки */
 }
+.fullwidth.color2 label {
+    background: rgb(1 64 115 / 60%);
+    /* Цвет фона спойлер-кнопки */
+    color: rgb(185 208 222);
+    /* Цвет  названия спойлер-кнопки */
+}
+.fullwidth.color3 label {
+    background: rgb(17 130 250 / 60%);
+    /* Цвет фона спойлер-кнопки */
+    color: rgb(185 208 222);
+    /* Цвет  названия спойлер-кнопки */
+}
 
 .fullwidth.color1 label::after {
     color: rgb(23 96 147 / 60%);
