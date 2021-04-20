@@ -1,0 +1,103 @@
+/*Блок обо мне*/
+
+/*Верхнее изображение*/
+span.meBlock-img {
+    content: url(https://i2.wp.com/www.hdwallpapers.in/download/jean_dandelion_breeze_genshin_impact_4k_hd_games-HD.jpg);
+    max-width: 100%;
+    -moz-transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+	display: flex;
+  	align-items: center;
+}
+
+span.meBlock-img:hover {
+    -moz-transform: scale(1.03);
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
+    filter: brightness(105%);
+    filter: saturate(110%)
+}
+
+.fullwidth.color1 label {
+    background: rgb(23 96 147 / 60%);
+    /* Цвет фона спойлер-кнопки */
+    color: rgb(185 208 222);
+    /* Цвет  названия спойлер-кнопки */
+}
+
+.fullwidth.color1 label::after {
+    color: rgb(23 96 147 / 60%);
+    	/* Цвет подсказки "Открыть" на спойлер-кнопке  */
+}
+
+.Person-0 .b-catalog_entry .cover .image-decor .image-cutter {
+    background: url(https://i.gifer.com/75yN.gi);
+    	/*Поменять background*/
+}
+
+.Person-0 a[href*="/118763-"] .image-cutter::after {
+    background: url(//nyaa.shikimori.one/system/user_images/original/208335/1159555.jpg) 82% 37% / 480%;
+    	/*Ram Изображение*/
+}
+
+.Person-0 a[href*="/118765-"] .image-cutter::after {
+    background: url(//nyaa.shikimori.one/system/user_images/original/208335/1159555.jpg) 55% 40% / 480%;
+    	/* Rem Изображение*/
+}
+
+.Person-0 a[href*="/17364"] .image-cutter::after {
+    background: url('https://i.pinimg.com/originals/6e/bb/d8/6ebbd8da91752e6664765ee2e9ea4e1b.jpg') 55% 20% / 400%
+        /* Momo Deviluk Изображение*/
+}
+
+.Person-0 a[href*="/83017"] .image-cutter::after {
+    background: url('https://cdn.myanimelist.net/s/common/uploaded_files/1583177680-25f122b6b162cd578bc4c9b995c9bf72.jpeg') 76% 4% / 400%
+        /* Shinoa Hirogi Изображение*/
+}
+
+.Person-0 a[href*="/82525"] .image-cutter::after {
+    background: url('https://i.imgur.com/tWC2HYz.jpg') 40% 5% / 270%
+        /* Shiro NgNl Изображение*/
+}
+
+.Person-0 a[href*="/123151"] .image-cutter::after {
+    background: url('https://i.ibb.co/DRTCcNp/diamond-houseki-no-kuni-1000x715-luckyluna-253480.jpg') 47% 10% / 270%
+        /* Diamond Изображение*/
+}
+
+.titles .b-prgrph {
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(254,237,203);
+  font-family: 'Dela Gothic One', cursive;
+  padding-bottom: 14px; 
+  
+}
+
+.tierList .b-prgrph {
+    font-style: italic;
+    color: #c02a2a;
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+  	cursor: default;
+}
+
+/*span.b-image .b-poster .no-zoom {}
+content: ' (' data-attr(https://static.wallpapers-anime.com/upload/20170516/433/t/s/C/tsCFEF.jpg) ') ';
+}*/
+/*Картинка с плавным зумирование блок обо мне*/
+div.topimg__container {
+    overflow: hidden;
+}
+
+/* Конец Блока обо мне*/
+.c-additionals
+{
+display: none
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
