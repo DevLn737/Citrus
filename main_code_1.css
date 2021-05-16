@@ -2499,6 +2499,9 @@ body#dashboards_show .l-page {
   .p-profiles-show .cc-favourites .c-column:nth-child(n+9) {
     display: none;
   }
+    .l-top_menu-v2{
+  max-width: 100%;      
+  }
 }
 
 @media screen and (min-width: 736px) and (max-width: 880px) {
@@ -2525,7 +2528,11 @@ body#dashboards_show .l-page {
     font: bold 20px "Comfortaa" !important;
     width: 51px;
   }
+        .l-top_menu-v2{
+  max-width: 100%;
+  }
 }
+
 
 @media screen and (min-width: 600px) and (max-width: 735px) {
   .p-achievements-index .cc-achievements .b-achievement, .p-achievements-index .cc-franchises-genres .c-genres .b-achievement {
@@ -2558,6 +2565,9 @@ body#dashboards_show .l-page {
     font: bold 20px "Comfortaa" !important;
     width: 50px;
   }
+        .l-top_menu-v2{
+  max-width: 100%;     
+  }
 }
 
 @media screen and (max-width: 599px) {
@@ -2585,6 +2595,9 @@ body#dashboards_show .l-page {
   }
   .p-achievements-index .c-franchises .b-badge[data-progress='100']:after {
     background: linear-gradient(135deg, transparent 280px, #483d1c 0);
+  }
+  .l-top_menu-v2{
+  max-width: 100%;     
   }
 }
 
