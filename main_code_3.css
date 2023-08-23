@@ -361,7 +361,7 @@
   
   .b-input input[type=checkbox], input[type=checkbox] {
     margin-right: 24px !important;
-    width: 0px !important;
+/*     width: 0px !important; */
   }
   
   .b-input input[type=checkbox]:before, input[type=checkbox]:before {
